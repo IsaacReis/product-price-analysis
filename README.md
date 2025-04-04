@@ -1,4 +1,4 @@
-# 🛒 Product Price Analysis (WIP)
+# Product Price Analysis (WIP)
 
 This is a simple Python project to analyze and visualize the price variation of products over time using **Pandas**, **NumPy**, and **Matplotlib**.
 
@@ -6,7 +6,7 @@ This is a simple Python project to analyze and visualize the price variation of 
 
 ---
 
-## 🔍 Project Goals
+## Project Goals
 
 - Continue practicing and improving Python programming skills
 - Practice data analysis with **Pandas**
